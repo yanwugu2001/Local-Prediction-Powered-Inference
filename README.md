@@ -1,7 +1,7 @@
 # Local-Prediction-Powered-Inference
 This is the repository of the experiments of the paper Local Prediction-Powered Inference.
 
-You can review our paper via [https://arxiv.org/abs/2409.18321]: https://arxiv.org/abs/2409.18321. 
+You can review our paper via https://arxiv.org/abs/2409.18321. 
 
 This repository contains the following files:
 1. Simulation.ipynb
